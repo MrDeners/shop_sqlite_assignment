@@ -1,0 +1,7 @@
+# Project exclude paths
+/.dart_tool/
+/build/
+/feature/main_screen/.dart_tool/
+/feature/order/.dart_tool/
+/feature/shop/.dart_tool/
+/navigation/.dart_tool/
